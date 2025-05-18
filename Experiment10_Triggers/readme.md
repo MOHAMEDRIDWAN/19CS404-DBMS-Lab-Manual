@@ -1,5 +1,5 @@
-## NAME : Mohamed Anas O.I
-## REG NO : 212223110028
+## NAME : Mohamed Ridwan A
+## REG NO : 212223110030
 # Experiment 10: PL/SQL – Triggers
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
